@@ -1,16 +1,23 @@
-### Hi there 👋
+👇 Hit in your console or terminal to connect with me.
 
-<!--
-**rickhc3/rickhc3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+npx rickhc3
+```
 
-Here are some ideas to get you started:
+A little more about me...  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const rickhc3 = {
+    code: ["Javascript", "Typescript", "php", "Python"],
+    askMeAbout: ["web dev", "tech", "music"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "Nuxt", "React", "Nextjs"],
+            css: ["Vuetify", "Bootstrap", "Bulma"]
+        },
+        backEnd: {
+            js: ["node", "express", "Adonis"]
+        },
+        misc: ["selenium", "Puppeteer", "php"]
+    },
+};
