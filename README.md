@@ -16,7 +16,8 @@ const rickhc3 = {
             css: ["Vuetify", "Bootstrap", "Bulma"]
         },
         backEnd: {
-            js: ["node", "express", "AdonisJS"]
+            js: ["node", "express", "AdonisJS"],
+            php: ["laravel"]
         },
         misc: ["selenium", "Puppeteer", "php"]
     },
